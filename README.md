@@ -1,4 +1,4 @@
-# 🌟 **Coding Test 준비합니다!**
+# 🌟 **Coding Test Preperation**
 
 A systematic journey to master coding tests using **Baekjoon Online Judge**. 🚀  
 _기간: 2025년 1월 5일 ~ 2월 5일_
