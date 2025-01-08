@@ -6,5 +6,5 @@ for _ in range(T):
     array.append(A+B)
 
 for i in range(T):
-    print(f"Case #{i}", end = ": ")
+    print(f"Case #{i+1}: ", end = "")
     print(array[i])
